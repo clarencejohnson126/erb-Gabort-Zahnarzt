@@ -6,7 +6,7 @@ const Team = () => {
     {
       name: "Dr. Ertl Gabor",
       role: "Zahnarzt & Praxisinhaber",
-      image: "https://images.pexels.com/photos/5327580/pexels-photo-5327580.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=400",
       specialties: ["Implantologie", "Angstpatienten", "Kinderzahnheilkunde"],
       description: "Mit über 15 Jahren Erfahrung ist Dr. Ertl Gabor Experte für einfühlsame Zahnbehandlung und moderne Implantologie."
     },
