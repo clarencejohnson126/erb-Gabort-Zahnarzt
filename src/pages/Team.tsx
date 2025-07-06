@@ -6,28 +6,28 @@ const Team = () => {
     {
       name: "Dr. Ertl Gabor",
       role: "Zahnarzt & Praxisinhaber",
-      image: "https://images.pexels.com/photos/6812463/pexels-photo-6812463.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "https://images.pexels.com/photos/5327580/pexels-photo-5327580.jpeg?auto=compress&cs=tinysrgb&w=400",
       specialties: ["Implantologie", "Angstpatienten", "Kinderzahnheilkunde"],
       description: "Mit über 15 Jahren Erfahrung ist Dr. Ertl Gabor Experte für einfühlsame Zahnbehandlung und moderne Implantologie."
     },
     {
       name: "Andrea Müller",
       role: "Zahnmedizinische Fachangestellte",
-      image: "https://images.pexels.com/photos/5215016/pexels-photo-5215016.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "https://images.pexels.com/photos/6627374/pexels-photo-6627374.jpeg?auto=compress&cs=tinysrgb&w=400",
       specialties: ["Prophylaxe", "Patientenbetreuung", "Verwaltung"],
       description: "Andrea ist die gute Seele unserer Praxis und sorgt dafür, dass sich alle Patienten wohlfühlen."
     },
     {
       name: "Petra Schmidt",
       role: "Dentalhygienikerin",
-      image: "https://images.pexels.com/photos/5215018/pexels-photo-5215018.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "https://images.pexels.com/photos/6627450/pexels-photo-6627450.jpeg?auto=compress&cs=tinysrgb&w=400",
       specialties: ["Professionelle Zahnreinigung", "Parodontologie", "Prävention"],
       description: "Petra ist unsere Expertin für Prophylaxe und sorgt für die optimale Mundhygiene unserer Patienten."
     },
     {
       name: "Julia Wagner",
       role: "Zahnmedizinische Fachangestellte",
-      image: "https://images.pexels.com/photos/5215019/pexels-photo-5215019.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "https://images.pexels.com/photos/6627452/pexels-photo-6627452.jpeg?auto=compress&cs=tinysrgb&w=400",
       specialties: ["Assistenz", "Kinderzahnheilkunde", "Terminplanung"],
       description: "Julia unterstützt unser Team bei der Behandlung und hat ein besonderes Händchen für kleine Patienten."
     }
