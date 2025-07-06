@@ -1,4 +1,3 @@
-import React from 'react';
 import { Calendar, Shield, Heart, Star, Phone, CheckCircle } from 'lucide-react';
 
 const Home = () => {

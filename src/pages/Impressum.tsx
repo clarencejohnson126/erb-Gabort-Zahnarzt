@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Impressum = () => {
   return (
     <div className="section-padding bg-gray-50">

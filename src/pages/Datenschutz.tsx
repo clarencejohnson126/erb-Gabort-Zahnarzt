@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Datenschutz = () => {
   return (
     <div className="section-padding bg-gray-50">

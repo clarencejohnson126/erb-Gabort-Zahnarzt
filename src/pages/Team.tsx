@@ -1,4 +1,3 @@
-import React from 'react';
 import { Award, Heart, Users, GraduationCap } from 'lucide-react';
 
 const Team = () => {
